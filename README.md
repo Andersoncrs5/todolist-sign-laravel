@@ -21,7 +21,7 @@ This project is a simple task management system built with Laravel 12. It includ
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/task-management.git
+   git clone https://github.com/Andersoncrs5/todolist-sign-laravel.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -50,7 +50,4 @@ This project is a simple task management system built with Laravel 12. It includ
 - Log in using session-based authentication
 - Create, update, and delete tasks
 - Manage user accounts
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
